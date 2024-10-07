@@ -20,5 +20,5 @@ This repository is designed to provide comprehensive documentation for developer
 To get started, browse through the documentation types listed below. You can also clone the repository to explore the documentation locally:
 
 ```bash
-git clone https://github.com/yourusername/documentation-repo.git
-cd documentation-repo
+git clone https://github.com/sai-Ga/Documentation.git
+cd Documentation
